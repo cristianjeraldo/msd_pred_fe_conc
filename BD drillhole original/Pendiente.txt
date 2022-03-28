@@ -1,0 +1,2 @@
+revisar que stats de bd tubo de davis sea similar por UG_MOD que lo obtenido por regresión
+esto debe estar incorporado en presentación
